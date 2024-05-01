@@ -1,8 +1,15 @@
-# React + Vite
+### VLAB - Virtual Laboratory for Experimental-Based Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to VLAB! This project is an online platform aimed at enhancing the learning experience by providing virtual laboratories for hands-on experimentation across various subjects such as Physics, Chemistry, and Biology.
 
-Currently, two official plugins are available:
+#### Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with VLAB, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/your-username/vlab.git
+
+   npm install
+   ```
